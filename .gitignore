@@ -1,3 +1,9 @@
+# entorno de los pibes
+
+tp_compartido
+ejemplo
+.venv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
